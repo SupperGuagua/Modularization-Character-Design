@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-8956413892198654009
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "\u811A\u6B65_\u792B\u77F3_\u5375\u77F3_\u788E\u77F3\u8DEF_\u5355\u4E00_5_{-8956413892198654009}"
+  m_AudioClip: {fileID: 8300000, guid: c2d50f5929df751419b89aff484785d8, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "\u8173\u6B65\u8072"
+  m_Volume: -10
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 7643136748096984745}
+  - {fileID: -8956413892198654009}
+  - {fileID: 7465627680809823062}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &7465627680809823062
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "\u811A\u6B65_\u792B\u77F3_\u5375\u77F3_\u788E\u77F3\u8DEF_\u5355\u4E00_6_{7465627680809823062}"
+  m_AudioClip: {fileID: 8300000, guid: 3502241572cfccd4b92e21f083151197, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &7643136748096984745
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "\u811A\u6B65_\u792B\u77F3_\u5375\u77F3_\u788E\u77F3\u8DEF_\u5355\u4E00_4_{7643136748096984745}"
+  m_AudioClip: {fileID: 8300000, guid: b9f0d90fe097fd04781960b3f44a7ecc, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
